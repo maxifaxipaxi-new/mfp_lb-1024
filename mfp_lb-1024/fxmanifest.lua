@@ -1,8 +1,8 @@
 fx_version "cerulean"
 game "gta5"
 
-title "LB Phone - Classic Snake-App"
-description "Integrate Games like Snake to LB"
+title "LB Phone - 1024-App"
+description "Integrate Games like 1024 to LB"
 author "MFPSCRIPTS"
 version '1.0'
 
